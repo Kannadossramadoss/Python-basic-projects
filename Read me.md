@@ -3,4 +3,4 @@ This folder contains three games.
 2. Rock paper scissors.
 3. Quiz game.
 
-Cheers
+Cheers all
